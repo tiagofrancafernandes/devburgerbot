@@ -6,8 +6,8 @@ My test bot [devburgerbot](http://t.me/devburgerbot).
 --- 
 #### Try online
 
-[![Run on Gitpod](https://img.shields.io/badge/-Run%20on%20Gitpod-black?style=social&logo=Gitpod)](https://repl.it/github/tiagofrancafernandes/devburgerbot)
 [![Run on Repl.it](https://img.shields.io/badge/-Run%20on%20Repl.it-black?style=social&logo=repl.it)](https://repl.it/github/tiagofrancafernandes/devburgerbot)
+[![Run on Gitpod](https://img.shields.io/badge/-Run%20on%20Gitpod-black?style=social&logo=Gitpod)](https://gitpod.io/#https://github.com/tiagofrancafernandes/devburgerbot)
 
 *Obs.: first you need a bot token. You can create a bot in [BotFather](http://t.me/BotFather)*
 
