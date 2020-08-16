@@ -1,5 +1,7 @@
 # devburgerbot
-Um manipulador de bot @devburgerbot (http://t.me/devburgerbot). 
+Um manipulador de bot @devburgerbot (http://t.me/devburgerbot).
+
+[![Run on Repl.it](https://repl.it/badge/github/tiagofrancafernandes/devburgerbot)](https://repl.it/github/tiagofrancafernandes/devburgerbot)
 
 Feito seguindo o tutorial https://www.youtube.com/watch?v=4u9JQR0-Bgc
 
